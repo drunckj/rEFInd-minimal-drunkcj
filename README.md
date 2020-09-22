@@ -1,6 +1,7 @@
 # rEFInd-minimal-drunkcj
 rEFInd is an easy to use boot manager for UEFI based systems. This is a clean and minimal theme for it.
-![Screenshot](screenshot/screenshot.jpg)
+
+![Screenshot](https://i.imgur.com/TCKkbpp.jpg)
 
 This theme is inspired from ![rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal) by ![EvanPurkhiser](https://github.com/EvanPurkhiser)
 ## Usage
