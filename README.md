@@ -9,7 +9,7 @@ This theme is inspired from ![rEFInd-minimal](https://github.com/EvanPurkhiser/r
 
 2. Create a folder called themes inside it, if it doesn't already exist 
 3. Clone this repository into the themes directory using
-4. To enable the theme add include ```themes/rEFInd-minimal-drunkcj/theme.conf``` at the end of ```refind.conf```.
+4. To enable the theme add  ```include themes/rEFInd-minimal-drunkcj/theme.conf``` at the end of ```refind.conf```.
 ### Representation
 * Up arrow indicates reboot
 * Down arrow indicates shutdown
